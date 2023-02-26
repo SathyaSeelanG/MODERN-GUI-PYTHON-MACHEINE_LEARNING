@@ -32,7 +32,7 @@ Submit a pull request.
 Credits
 
 ![Screenshot of Modern GUI]([https://drive.google.com/.../example.png](https://i0.wp.com/www.franksworld.com/wp-content/uploads/2022/11/iM3kjbbKHQU_maxres.jpg?w=1280&ssl=1))
-This project was created by [Your Name].
+This project was created by [Sathya Seelan].
 
 License
 This project is licensed under the [License Name] License - see the LICENSE.md file for details.
