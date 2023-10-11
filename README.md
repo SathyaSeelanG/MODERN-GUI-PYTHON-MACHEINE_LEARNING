@@ -31,7 +31,7 @@ Push your changes to your forked repository.
 Submit a pull request.
 Credits
 
-![Screenshot of Modern GUI]([https://drive.google.com/.../example.png](https://i0.wp.com/www.franksworld.com/wp-content/uploads/2022/11/iM3kjbbKHQU_maxres.jpg?w=1280&ssl=1))
+![Screenshot of Modern GUI]([https://raw.githubusercontent.com/SathyaSeelanG/Portfolio/main/public/MODERNGUI1.jpg))
 This project was created by [Sathya Seelan].
 
 License
