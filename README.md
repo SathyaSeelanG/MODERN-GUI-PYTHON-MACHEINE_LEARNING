@@ -9,30 +9,11 @@ Technologies Used
 Python
 Advanced UI libraries
 Machine learning techniques
-Installation
-To run this project on your local machine, follow these steps:
 
-Clone this repository to your local machine.
-Install the required libraries and dependencies.
-Run the project.
-Usage
-Once the project is up and running, users can use the following features:
 
-Adjust screen brightness and volume using hand gestures.
-Control the GUI and other applications using voice commands.
-Compare prices of products across multiple websites using the price comparison engine.
-Contributing
-If you would like to contribute to this project, please follow these steps:
 
-Fork this repository.
-Create a new branch.
-Make your changes and commit them.
-Push your changes to your forked repository.
-Submit a pull request.
-Credits
-
+![Ecommerce_website](https://raw.githubusercontent.com/SathyaSeelanG/Portfolio/main/public/Ecom.png)
 ![Screenshot of Modern GUI]([https://raw.githubusercontent.com/SathyaSeelanG/Portfolio/main/public/MODERNGUI1.jpg))
 This project was created by [Sathya Seelan].
 
-License
-This project is licensed under the [License Name] License - see the LICENSE.md file for details.
+
