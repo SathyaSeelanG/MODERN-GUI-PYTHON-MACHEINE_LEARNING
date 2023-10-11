@@ -12,8 +12,8 @@ Machine learning techniques
 
 
 
-![Ecommerce_website](https://raw.githubusercontent.com/SathyaSeelanG/Portfolio/main/public/Ecom.png)
-![Screenshot of Modern GUI]([https://raw.githubusercontent.com/SathyaSeelanG/Portfolio/main/public/MODERNGUI1.jpg))
-This project was created by [Sathya Seelan].
+![Modern GUI](https://raw.githubusercontent.com/SathyaSeelanG/Portfolio/main/public/MODERNGUI1.jpg)
+
+                  This project was created by [Sathya Seelan].
 
 
